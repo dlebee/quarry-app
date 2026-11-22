@@ -1,0 +1,42 @@
+; Quarry Builders (Godot 4). One codebase for the iPhone and the Fire tablet.
+
+config_version=5
+
+[application]
+
+config/name="Quarry Builders"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.png"
+
+[audio]
+
+general/text_to_speech=true
+
+[autoload]
+
+Sfx="*res://scripts/sfx.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=800
+window/size/window_width_override=1280
+window/size/window_height_override=800
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=4
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
+anti_aliasing/quality/msaa_3d=2
+anti_aliasing/quality/msaa_3d.android=0
+scaling_3d/scale=1.0
+scaling_3d/scale.android=0.75

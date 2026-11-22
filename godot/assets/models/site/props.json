@@ -1,0 +1,559 @@
+[
+ {
+  "file": "office-container.glb",
+  "at": [
+   160,
+   -55
+  ],
+  "yaw": 90,
+  "height": 2.8
+ },
+ {
+  "file": "office-container-long.glb",
+  "at": [
+   170,
+   -40
+  ],
+  "yaw": 0,
+  "height": 2.8
+ },
+ {
+  "file": "portable-toilet.glb",
+  "at": [
+   180,
+   -58
+  ],
+  "yaw": 180,
+  "height": 2.4
+ },
+ {
+  "file": "rubble-skip.glb",
+  "at": [
+   140,
+   -60
+  ],
+  "yaw": 20,
+  "height": 1.6
+ },
+ {
+  "file": "material-stack.glb",
+  "at": [
+   135,
+   -45
+  ],
+  "yaw": 0,
+  "height": 1.5
+ },
+ {
+  "file": "container.glb",
+  "at": [
+   185,
+   -20
+  ],
+  "yaw": 90,
+  "height": 2.6
+ },
+ {
+  "file": "tower-crane-ground.glb",
+  "at": [
+   125,
+   -85
+  ],
+  "yaw": 30,
+  "height": 28
+ },
+ {
+  "file": "sign.glb",
+  "at": [
+   122,
+   14
+  ],
+  "yaw": 90,
+  "height": 2.2
+ },
+ {
+  "file": "barrel.glb",
+  "at": [
+   176,
+   -62
+  ],
+  "height": 1.0
+ },
+ {
+  "file": "barrel.glb",
+  "at": [
+   177,
+   -63.5
+  ],
+  "height": 1.0
+ },
+ {
+  "file": "pipe.glb",
+  "at": [
+   132.0,
+   -30
+  ],
+  "height": 2.2
+ },
+ {
+  "file": "pipe.glb",
+  "at": [
+   135.2,
+   -30
+  ],
+  "height": 2.2
+ },
+ {
+  "file": "pipe.glb",
+  "at": [
+   138.4,
+   -30
+  ],
+  "height": 2.2
+ },
+ {
+  "file": "pipe.glb",
+  "at": [
+   141.6,
+   -30
+  ],
+  "height": 2.2
+ },
+ {
+  "file": "pipe.glb",
+  "at": [
+   144.8,
+   -30
+  ],
+  "height": 2.2
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -17.5,
+   53.7
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "barrier-wood.glb",
+  "at": [
+   -12.8,
+   39.5
+  ],
+  "yaw": -108,
+  "height": 1.0
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -30.4,
+   51.5
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -43.2,
+   46.0
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -54.9,
+   37.3
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "barrier-plastic.glb",
+  "at": [
+   -42.5,
+   28.9
+  ],
+  "yaw": -146,
+  "height": 1.0
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -64.8,
+   25.7
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -72.1,
+   11.4
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -76.1,
+   -4.8
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "barrier-wood.glb",
+  "at": [
+   -61.2,
+   -3.8
+  ],
+  "yaw": 176,
+  "height": 1.0
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -76.4,
+   -22.2
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -72.6,
+   -39.9
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -64.7,
+   -57.0
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "barrier-plastic.glb",
+  "at": [
+   -53.4,
+   -47.1
+  ],
+  "yaw": 139,
+  "height": 1.0
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -52.6,
+   -72.4
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -36.9,
+   -85.2
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   -18.0,
+   -94.4
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "barrier-plastic.glb",
+  "at": [
+   -15.2,
+   -79.7
+  ],
+  "yaw": 101,
+  "height": 1.0
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   3.1,
+   -99.3
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   25.5,
+   -99.5
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   48.1,
+   -94.4
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "barrier-plastic.glb",
+  "at": [
+   41.3,
+   -81.1
+  ],
+  "yaw": 63,
+  "height": 1.0
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   69.7,
+   -84.2
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   89.0,
+   -69.0
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   104.9,
+   -49.3
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   116.3,
+   -26.0
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "cone.glb",
+  "at": [
+   122.5,
+   -0.0
+  ],
+  "height": 0.9
+ },
+ {
+  "file": "LP_B-Rocks_00.glb",
+  "at": [
+   26.4,
+   117.1
+  ],
+  "yaw": 222,
+  "height": 2.5
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   64.0,
+   41.0
+  ],
+  "yaw": 30,
+  "height": 3.6
+ },
+ {
+  "file": "LP_B-Rocks_00.glb",
+  "at": [
+   59.6,
+   -20.4
+  ],
+  "yaw": 295,
+  "height": 3.0
+ },
+ {
+  "file": "LP_B-Rocks_00.glb",
+  "at": [
+   62.3,
+   -9.4
+  ],
+  "yaw": 285,
+  "height": 3.6
+ },
+ {
+  "file": "LP_B-Rocks_00.glb",
+  "at": [
+   -77.8,
+   43.3
+  ],
+  "yaw": 292,
+  "height": 2.3
+ },
+ {
+  "file": "LP_B-Rocks_02.glb",
+  "at": [
+   56.9,
+   122.4
+  ],
+  "yaw": 190,
+  "height": 1.7
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   -46.2,
+   -42.8
+  ],
+  "yaw": 348,
+  "height": 2.8
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   -86.9,
+   19.1
+  ],
+  "yaw": 185,
+  "height": 2.2
+ },
+ {
+  "file": "LP_B-Rocks_04.glb",
+  "at": [
+   66.2,
+   37.4
+  ],
+  "yaw": 268,
+  "height": 2.7
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   46.4,
+   42.6
+  ],
+  "yaw": 84,
+  "height": 3.4
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   69.4,
+   -30.9
+  ],
+  "yaw": 20,
+  "height": 3.9
+ },
+ {
+  "file": "LP_B-Rocks_04.glb",
+  "at": [
+   5.8,
+   -62.7
+  ],
+  "yaw": 174,
+  "height": 3.2
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   -120.0,
+   2.5
+  ],
+  "yaw": 35,
+  "height": 3.6
+ },
+ {
+  "file": "LP_B-Rocks_00.glb",
+  "at": [
+   -87.8,
+   14.4
+  ],
+  "yaw": 31,
+  "height": 3.3
+ },
+ {
+  "file": "LP_B-Rocks_04.glb",
+  "at": [
+   59.0,
+   -121.4
+  ],
+  "yaw": 197,
+  "height": 3.7
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   88.1,
+   12.6
+  ],
+  "yaw": 181,
+  "height": 1.9
+ },
+ {
+  "file": "LP_B-Rocks_02.glb",
+  "at": [
+   8.7,
+   -75.5
+  ],
+  "yaw": 126,
+  "height": 2.5
+ },
+ {
+  "file": "rocks-group.glb",
+  "at": [
+   89.2,
+   49.5
+  ],
+  "yaw": 205,
+  "height": 2.9
+ },
+ {
+  "file": "LP_B-Rocks_04.glb",
+  "at": [
+   32.0,
+   -68.9
+  ],
+  "yaw": 212,
+  "height": 4.0
+ },
+ {
+  "file": "LP_B-Rocks_02.glb",
+  "at": [
+   100.8,
+   -89.8
+  ],
+  "yaw": 77,
+  "height": 1.7
+ },
+ {
+  "file": "LP_B-Rocks_02.glb",
+  "at": [
+   8.6,
+   75.5
+  ],
+  "yaw": 6,
+  "height": 2.7
+ },
+ {
+  "file": "LP_B-Rocks_04.glb",
+  "at": [
+   49.5,
+   109.3
+  ],
+  "yaw": 2,
+  "height": 1.9
+ },
+ {
+  "file": "LP_B-Rocks_04.glb",
+  "at": [
+   -81.7,
+   87.9
+  ],
+  "yaw": 64,
+  "height": 3.2
+ }
+]

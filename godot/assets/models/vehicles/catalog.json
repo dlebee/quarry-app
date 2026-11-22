@@ -1,0 +1,23 @@
+[
+  {"file": "excavator.glb", "title": "Excavator", "kind": "excavator", "length": 9.0, "speed": 4.5, "yaw": -90,
+   "at": [-12, -4], "face": 120, "capacity": 1,
+   "joints": [
+     {"role": "cab", "node": "upper_swing", "axis": [0, 1, 0]},
+     {"role": "boom", "node": "boom", "parent": "cab", "axis": [0, 0, 1]},
+     {"role": "arm", "node": "arm", "parent": "boom", "axis": [0, 0, 1]},
+     {"role": "bucket", "node": "bucket", "parent": "arm", "axis": [0, 0, 1]}
+   ]},
+  {"file": "dumper-truck-tipping.glb", "title": "Dump truck", "kind": "dump_truck", "length": 9.0, "speed": 13.0, "yaw": 180,
+   "at": [-5, -13], "face": 30, "capacity": 3,
+   "joints": [{"role": "bed", "node": "dump_bed", "axis": [1, 0, 0], "sign": -1}]},
+  {"file": "tractor-shovel.glb", "title": "Loader", "kind": "loader", "length": 7.0, "speed": 6.0, "yaw": 180,
+   "at": [14, 12], "face": 200, "capacity": 2,
+   "joints": [{"role": "arms", "node": "shovel", "axis": [1, 0, 0]}],
+   "wheels": ["wheel-*"]},
+  {"file": "tractor.glb", "title": "Tractor", "kind": "bulldozer", "length": 5.5, "speed": 6.0, "yaw": 180,
+   "at": [22, -14], "face": 90, "wheels": ["wheel-*"]},
+  {"file": "mining-haul-truck.glb", "title": "Giant truck", "kind": "dump_truck", "length": 14.0, "speed": 11.0, "yaw": 0,
+   "at": [35, 18], "face": 270, "capacity": 6},
+  {"file": "concrete-mixer-truck.glb", "title": "Cement mixer", "kind": "plain", "length": 9.0, "speed": 8.0, "yaw": 180,
+   "at": [150, -25], "face": 0}
+]
